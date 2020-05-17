@@ -179,5 +179,19 @@ public class Main {
         }
 
     }
+    
+    /*
+    Hola, Ozino!
+    Muy bien!
+
+    Recordar:
+    - aplicar el concepto de alta cohesión en todos los métodos
+    - los nombres de atributos, si tienen sólo una palabra, se
+    escriben con minúsculas y si tienen más de una, la primera
+    debe comenzar con mínúscula y las demás deben comenzar con
+    letra mayúscula.
+    - que el repositorio debe ser privado y que me debe enviar la solcitud
+    para ser "colaborador"
+     */
 
 }
