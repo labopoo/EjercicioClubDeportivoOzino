@@ -179,5 +179,21 @@ public class Main {
         }
 
     }
+    
+    /*
+    Hola, Ozino!
+    Muy bien!!
+
+    Recordar:
+    - aplicar el concepto de alta cohesión en todos los métodos
+    - los nombres de atributos, si tienen sólo una palabra, se
+    escriben con minúsculas y si tienen más de una, la primera
+    debe comenzar con mínúscula y las demás deben comenzar con
+    letra mayúscula.
+    - los nombres de los paquetes deben estar escritos
+    * con minúsculas y se debe evitar utilizar más de una palabra
+    - el repositorio debe ser privado y me tiene que agregar como
+    "colaborador" para que yo pueda ver sus trabajos
+     */
 
 }
